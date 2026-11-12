@@ -83,10 +83,6 @@ Collision test (TEST 5): port A writes `22` to address 6 while port B reads it. 
 
 ![Dual port collision waveform](docs/dual_port_collision_waveform.png)
 
-Single port read-first test (TEST 3):
-
-![Single port read-first waveform](docs/single_port_read_first_waveform.png)
-
 ## Synthesis results (Artix-7 xc7a35tcpg236-1)
 
 | Design | Slice LUTs | Flip-flops | Block RAM | I/O |
