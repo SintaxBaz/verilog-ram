@@ -1,0 +1,21 @@
+# Vivado generated files
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+.Xil/
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+*.xpr
+xsim.dir/
+webtalk*
+
+# Icarus Verilog / GTKWave
+*.vvp
+*.vcd
+a.out
