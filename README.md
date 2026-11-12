@@ -163,5 +163,3 @@ iverilog -g2005 -o dp rtl/dual_port_ram.v tb/tb_dual_port_ram.v && vvp dp
 ## Tools
 
 Xilinx Vivado (synthesis, implementation, XSim), Icarus Verilog
-#   v e r i l o g - r a m  
- 
